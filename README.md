@@ -2,8 +2,8 @@
 ==============
 
 [![Downloads this Month](https://img.shields.io/packagist/dm/Sura/database.svg)](https://packagist.org/packages/Sura/database)
-[![Latest Stable Version](https://poser.pugx.org/Sura/database/v/stable)](https://github.com/Sura/database/releases)
-[![License](https://poser.pugx.org/Sura/database/license)](https://github.com/Sura/database/blob/master/license.md)
+[![Latest Stable Version](https://poser.pugx.org/Sura/database/v/stable)](https://github.com/Sura-laboratory/database/releases)
+[![License](https://poser.pugx.org/Sura/database/license)](https://github.com/Sura-laboratory/database/blob/master/license.md)
 
 Installation
 ------------
